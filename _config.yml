@@ -3,9 +3,8 @@ gems:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
-  - pygments.rb
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
