@@ -16,12 +16,12 @@ The first and perhaps most obvious is Sloth. You probably already know what I me
 
 Sloth is bad because it turns away people who are ready and willing to help you out. It also turns away people who haven't decided if your library or tool is useful. If it already doesn't work with modern technology, they will slink away and search up another solution, or even roll their own.
 
-What you have given them? Is plenty of time to think about how frustrating you were, about all the time they spent on their solution, and how it wasn't given an iota of your time.
+When you are too lax in your basic duties, all you are doing is giving them plenty of time to think about how frustrating you are, about all the time they spent on their solution, and how it wasn't given an iota of your time.
 
 _Virtuous patterns_:
 
 * Answer that issue as soon as possible
-* Give feedback on that pull request as soon as you can
+* Give feedback on that pull request as soon as you can, even if it is to say "I see this; I can't get to it until time _x_."
 * Release your changes frequently
 * Put in the effort for a good CHANGELOG. It's going to take you about 2 minutes when you do a release for the lovagod.
 * Upgrade your dependencies so your library works with the latest.
@@ -64,6 +64,8 @@ _Virtuous pattern_: Constructive feedback.
 
 A.k.a. “this pull request looks great! Your code is great and your idea: great. I can tell you know what you're doing. Actually, could you also completely refactor an entirely different set of code that needs help? I’ll merge it after you do that.”
 
+()My interpretation here, is that you are lusting after contributors and their skills.)
+
 When a person is submitting a pull request, s/he wants to use the repo. In fact, they are probably dutifully getting it merged upstream, then they can pull the published library instead of dealing with a fork. That is awesome! Don't abuse your power by making them jump through hoops that are irrelevant to what they are trying to accomplish. If they are touching code you want refactored, then yes you can use this person's help. But be reasonable about it. If you want them to help you do a deeper refactor? Just ask him or her. But keep it out of this particular pull request. Otherwise you're begging this person to create a fork and avoid future upstream improvements. (Which the person probably has more of.)
 
 _Virtuous pattern_: Understand the problem the person is trying to solve and help him/her get there. Don't stretch the scope of this person's work beyond accomplishing the original intent. If you need some help and this person is willing to do it, don't hold a PR hostage.
@@ -86,4 +88,4 @@ If you have a generous license and you're falling into some of the above bullet 
 
 #### 8th Deadly Sin
 
-This is mine: my blog doesn't have any discussion component, and therefore is lacking in transparency. If you'll forgive me that, I'd love to hear what you think. Check the [about](/about) page and drop me a line if there are other things that drive you away from adopting or contributing to an open source project. I'd love to hear it.
+This is mine: my blog doesn't have any discussion component, and therefore is lacking in transparency and a proper feedback loop. If you'll forgive me that, I'd love to hear what you think. Check the [about](/about) page and drop me a line if there are other things that drive you away from adopting or contributing to an open source project. I'd love to hear it.
