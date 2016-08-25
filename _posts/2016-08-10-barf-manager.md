@@ -24,7 +24,7 @@ Let's remain optimistic. Let's say the problem was solved. Yay! Maybe Phil reall
 
 1. Phil has a problem he can't easily solve.
 2. Because he's learning, he thinks through all the options and even tries different solutions before speaking with his manager.
-3. Phil approaches manager because he needs help. He explains all the things he's done to solve the problem, including the failures, the ideas and so on. He's really thought this one through!
+3. Phil approaches his manager because he needs help. He explains all the things he's done to solve the problem, including the failures, the ideas and so on. He's really thought this one through!
 4. Manager responds with, "Hmm. Well, what do you think you should do?"
 5. He gives more answers and he leaves with a list of tasks.
 
