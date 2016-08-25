@@ -39,13 +39,13 @@ _Virtuous pattern_: It’s ok to say no to pull requests that are counter to you
 
 Being a sinfully proud repo owner means you think your repo is too perfect to touch. C'mon, man.
 
-Commiting this sin means several things:
+Committing this sin means several things:
 
   * Something about your project is so special ("easy," "powerful," "useful," ... ), that you think it doesn’t need to obey conventions, like having a README, styling, tests, or an issue log.
   * Lots of compatibility breakages.
   * Poor documentation. Here's a hint: saying "the documentation is in the code" doesn't help everyone. Maybe you have good docstrings. Hooray for you. You need to publish them.
 
-_Virtuous pattern_: Be unafraid to question the choices you’ve made. Engage others when they have questions, because you're going to get some good ones. (And if you get the same question over and over, you need to figure out how to address that question before it comes to the repo.) 
+_Virtuous pattern_: Be unafraid to question the choices you’ve made. Engage others when they have questions, because you're going to get some good ones. (And if you get the same question over and over, you need to figure out how to address that question before it comes to the repo.)
 
 Always seek improvement with an open mind.
 
@@ -64,7 +64,7 @@ _Virtuous pattern_: Constructive feedback.
 
 A.k.a. “this pull request looks great! Your code is great and your idea: great. I can tell you know what you're doing. Actually, could you also completely refactor an entirely different set of code that needs help? I’ll merge it after you do that.”
 
-()My interpretation here, is that you are lusting after contributors and their skills.)
+(My interpretation here, is that you are lusting after contributors and their skills.)
 
 When a person is submitting a pull request, s/he wants to use the repo. In fact, they are probably dutifully getting it merged upstream, then they can pull the published library instead of dealing with a fork. That is awesome! Don't abuse your power by making them jump through hoops that are irrelevant to what they are trying to accomplish. If they are touching code you want refactored, then yes you can use this person's help. But be reasonable about it. If you want them to help you do a deeper refactor? Just ask him or her. But keep it out of this particular pull request. Otherwise you're begging this person to create a fork and avoid future upstream improvements. (Which the person probably has more of.)
 
@@ -74,7 +74,7 @@ _Virtuous pattern_: Understand the problem the person is trying to solve and hel
 
 Envy in this context can mean a few different things.
 
-  * Delibertaly making it difficult for adopters to monetize your code
+  * Deliberately making it difficult for adopters to monetize your code
   * A ridiculous license agreement
   * No collaborators, just you
   * Shamelessly copy/pasting code or features from other projects (perhaps that's lust?)
