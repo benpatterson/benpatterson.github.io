@@ -1,3 +1,5 @@
+License for Hyde as a content framework:
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
