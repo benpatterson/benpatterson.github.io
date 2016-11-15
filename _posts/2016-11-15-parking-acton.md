@@ -39,6 +39,12 @@ There are 3 parking systems.
 | 7 | At West Acton Fire Station. 10-15-min shuttle ride. | link | MinuteVan permit | Reliable, far. |
 
 
+#### A map to test your strength
+
+This map is taken from [the Acton map of public parcels](http://www.acton-ma.gov/DocumentCenter/Home/View/327).
+
+![Map pointing to all the parking lots]({{site.github.url}}/assets/images/Acton_CR_parking.png){: .center-image }
+
 
 #### Even more verbage if you want it
 
