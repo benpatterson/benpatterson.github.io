@@ -28,15 +28,15 @@ There are 3 parking systems.
 
 * *MinuteVan parking*: You need a permit for these spots, and you can get them via mail or from Town Hall. Your permit can be daily, monthly, or annual. Anyone can get a permit. More info at [MinuteVan](http://minutevan.net/Home)
 
-| Lot | Location (Description) | Location (Google Maps) | System | Quick Summary |
-|:----|:----------------------:|:----------------------:|:------:|-----------------:|
-| 1 | At station | link | Resident permit or meters for non-residents | Fills up quickly pssssh |
-| 2 | At station, down a side street | link | Resident permit | Doesn't fill as quickly, but hard to know if there's a space until you've really invested in getting there |
-| 3 | Across from Exchange Hall. 5 min walk | link | Resident permit | Small, not as close. Timeconsuming to turn around if it doesn't work out |
-| 4 | Next to Jones Field. 8 min walk | link | Reserved space | It'll cost you but it's solid. |
-| 5 | At South Acton Fire Station. 8 min walk. | link | Resident permit | Typically the last resort for residents. |
-| 6 | At Mt Calvary Church. 10-15-min shuttle ride. | link | MinuteVan permit | Reliable, far. |
-| 7 | At West Acton Fire Station. 10-15-min shuttle ride. | link | MinuteVan permit | Reliable, far. |
+| Lot | Location (Description)  | System | Quick Summary |
+|:----|:----------------------:|:------:|-----------------:|
+| 1 | At station  | Resident permit or meters for non-residents | Fills up quickly pssssh |
+| 2 | At station, down a side street  | Resident permit | Doesn't fill as quickly, but hard to know if there's a space until you've really invested in getting there |
+| 3 | Across from Exchange Hall. 5 min walk  | Resident permit | Small, not as close. Timeconsuming to turn around if it doesn't work out |
+| 4 | Next to Jones Field. 8 min walk  | Reserved space | It'll cost you but it's solid. |
+| 5 | At South Acton Fire Station. 8 min walk.  | Resident permit | Typically the last resort for residents. |
+| 6 | At Mt Calvary Church. 10-15-min shuttle ride.  | MinuteVan permit | Reliable, far. |
+| 7 | At West Acton Fire Station. 10-15-min shuttle ride.  | MinuteVan permit | Reliable, far. |
 
 
 #### A map to test your strength
