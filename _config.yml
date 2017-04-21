@@ -27,6 +27,8 @@ paginate:         5
 redcarpet:
   extensions: ["footnotes"]
 
+exclude:        ["arch"]
+
 # Custom vars
 version:          0.0.1
 
