@@ -15,7 +15,7 @@ title:            Fifteen Lines of Fame
 tagline:          'All-purpose elixir'
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description:      '[writing, code, family]'
-url:              http://www.fifteenlinesoffame.com
+url:              https://www.fifteenlinesoffame.com
 baseurl:          /
 
 author:
