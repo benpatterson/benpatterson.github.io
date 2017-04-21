@@ -9,6 +9,6 @@ title: About
 
 * Site: [Hyde](http://hyde.getpoole.com), which is Jekyll under the covers.
 * Mailing list: [mailchimp](http://mailchimp.com)
-* Code repo: [github](http://github.com/benpatterson/benpatterson.github.io)
+* Code repo: [github](https://github.com/benpatterson/benpatterson.github.io)
 
 [contact](mailto:ben@fifteenlinesoffame.com)
