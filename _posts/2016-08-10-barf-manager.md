@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Barf-Style Management
+title: Mog-Style Management
 ---
 
-No, I'm not talking about vomit, I'm talking about John Candy. Specifically, I'm talking about one of his characters, and how that character approaches laser-slinging bad guys. To wit, this pic [^1]:
+Ever heard of a mog? I'm talking about John Candy playing Barf, the half-man, half-dog. He had an effective approache towards laser-slinging bad guys. To wit, this pic [^1]:
 
 ![Barf re-routing lasers back to bad-guys with pipes]({{site.github.url}}/assets/images/spaceballs-04.jpg){: .center-image }
 
