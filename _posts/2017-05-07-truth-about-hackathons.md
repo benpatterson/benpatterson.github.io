@@ -23,7 +23,7 @@ He points out though, how much value is obtained from the intangibles:
 
 >[T]he direct impact of tangible outcomes does not tell the entire story...[T]angible outcomes may have intangible impacts...Hackathons often provided a venue for participants to take risks, foregoing ordinary demands of productivity to experiment with a new approach that might not pay off.
 
-I want to tell you The Truth about hackathons, and that truth will be different depending on who is looking in the mirror.
+In other words, the true power of hackathons is in the intangibles. The greatest intangible, to me, is The Truth. That truth will be different depending on who is looking in the mirror.
 
 ###The Truth###
 
