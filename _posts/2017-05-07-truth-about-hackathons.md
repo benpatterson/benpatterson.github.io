@@ -29,15 +29,17 @@ In other words, the true power of hackathons is in the intangibles. The greatest
 
 Let me put it to you this way. In the past 5 years, I've participated in several hackathons, and have seen patterns that point to problems in the given organization.
 
-For example, I was in a hackathon that featured 4 projects tackling the same problem of system writes on centralized configuration. It had spawned numerous bugs and was a hassle to work with as an engineer.
-
 One company's most successful array of projects was upgrading a framework version. Think about this. **When they were given the freedom to do whatever they wanted, they upgraded a framework.** There was something telling about this. It pointed to inefficiencies, like prioritization of tech debt, support from Product, or miscommunication between sleeves of engineering. In some ways it was television-poetic, how the band of engineers from different teams came together for this upgrade. This hackathon project actually conjured itself multiple times over a year's worth of hackathons. Each time, a new team got code merged that set the stage for (sadly) the next hackathon where the work could continue.
 
-Once I saw a plethora of hackathon "ideas" which were already bugs in JIRA. They were customer-facing, were small, and had been open for a long time. To me, this meant that the customer-facing teams were hearing streams of complaints from users, and somewhere between hearing the complaints and fixing the problem, priorities got messed up, ownership got lost, process didn't do its job.
+Other examples:
 
-Yet another hackathon series I participated in, kept asking for front-end engineers. "We'd love some help from a FED!" was almost a mantra. This was at a community hackathon, whose engineers vary from week to week, but the theme of needing FED developers was consistent. Perhaps they needed to draw more front-end developers, or perhaps the originators of these applications should have chosen a framework they were more comfortable with.
+* I was in a hackathon that featured 4 projects tackling the same problem of system writes on centralized configuration. It had spawned numerous bugs and was a hassle to work with as an engineer. That hackathon was an obvious statement on the breadth of this problem.
+* Once I saw a plethora of hackathon "ideas" which were already bugs in JIRA. They were customer-facing, were small, and had been open for a long time. To me, this meant that the customer-facing teams were hearing streams of complaints from users, and somewhere between hearing the complaints and fixing the problem, priorities got messed up, ownership got lost, process didn't do its job.
+* Yet another hackathon series I participated in, kept asking for front-end engineers. "We'd love some help from a FED!" was almost a mantra. This was at a community hackathon, whose engineers vary from week to week, but the theme of needing FED developers was consistent. Perhaps they needed to draw more front-end developers, or perhaps the originators of these applications should have chosen a framework they were more comfortable with.
 
-Indeed to me, hackathons are special times. I see it like group therapy. As a descendent in a line of alcoholics, I've attended some AA meetings, and they are special in a similar way. The forum of safety wraps around the participants, who can openly cry out and be heard without being judged. Hackathons, to me, are best when we listen.
+Indeed to me, hackathons are special times. I know it's strange, but I see them like group therapy. As a descendent in a line of alcoholics, I've attended some AA meetings, and they are special in a similar way, when an average-looking person in an average-looking outfit stands up and tells you extraordinary things about him or herself, unleashing tempests of regret, fear, anger, and on. In all those cases, the forum of safety wraps around the participants, who can openly cry out and be heard without being judged.
+
+Hackathons, to me, are best when we listen.
 
 
 
