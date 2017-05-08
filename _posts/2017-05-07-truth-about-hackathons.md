@@ -3,7 +3,7 @@ layout: post
 title: The Truth about Hackathons
 ---
 
-Unlike leaking gas or barrages of missles, one of the most dangerous objects we see in movies is the mirror. The way it reveals information to the viewer, when harnessed properly, can carve deeply into our minds. It's not necessarily the imagery that remains, but the *notion* that can strike the heart. A keen example of this is in 1984's *Neverending Story*, when our hero confronts himself in a mirror. Another character comments, "Kind people find that they are cruel, brave men discover that they are really cowards. Confronted with their true selves most men run away screaming."<sup>1</sup>
+Unlike leaking gas or a hand twisting a doorknob, one of the most threatening objects we see in movies is the mirror. The way it reveals information to the viewer, when harnessed properly, can carve deeply into our minds. It's not necessarily the imagery that remains, but the *notion* that can strike the heart. A keen example of this is in 1984's *Neverending Story*, when our hero confronts himself in a mirror. Another character comments, "Kind people find that they are cruel, brave men discover that they are really cowards. Confronted with their true selves most men run away screaming."<sup>1</sup>
 
 This is how I see hackathons.
 
