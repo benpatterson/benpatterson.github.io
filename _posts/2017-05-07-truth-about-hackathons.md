@@ -27,7 +27,7 @@ In other words, the true power of hackathons is in the intangibles. The greatest
 
 ###The Truth###
 
-Let me put it to you this way. In the past 5 years, I've participated in several hackathons, and have seen patterns that point to the inner-most desires in the given organization.
+Let me put it to you this way. In the past several years, I've participated in many hackathons, and have seen patterns that point to the inner-most desires in the given organization.
 
 One company's most successful array of projects was upgrading a framework version. Think about this. **When they were given the freedom to do whatever they wanted, they upgraded a framework.** There was something telling about this. In some ways it was television-poetic, how the band of engineers from different teams came together for this upgrade. This hackathon project actually conjured itself multiple times over a year's worth of hackathons. Each time, a new team got code merged that set the stage for the next hackathon where the work could continue. The implications though are fascinating. Was this simply the one item that was just off of the backlog? Or perhaps there was a disconnect between organization sleeves? Whatever the cause, this is the thing that engineers were spending their time between tasks thinking about.
 
