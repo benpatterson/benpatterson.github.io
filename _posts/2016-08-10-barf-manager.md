@@ -28,9 +28,9 @@ Let's remain optimistic. Let's say the problem was solved. Yay! Maybe Phil reall
 4. Manager responds with, "Hmm. Well, what do you think you should do?"
 5. He gives more answers and he leaves with a list of tasks.
 
-So, the Barf Defense continues. Phil has grown, but the manager is using the same approach. At this point, Phil really *has* done everything. Maybe some new ideas came up in the conversation, but I'm betting they were assigned to Phil.
+So, the Mog Defense continues. Phil has grown, but the manager is using the same approach. At this point, Phil really *has* done everything. Maybe some new ideas came up in the conversation, but I'm betting they were assigned to Phil.
 
-It's not so much that the manager is doing a bad job guiding the employee (although in my opinion that's true, too). The problem is that the manager is not engaged and is barely supporting the employee. Perhaps this tactic can work if the manager follows up and ends up giving advice later, or helps the employee process it afterwards. However, someone that persistently uses the Barf Defense is probably not this kind of manager and is just trying to avoid getting lasers in the gut.
+It's not so much that the manager is doing a bad job guiding the employee (although in my opinion that's true, too). The problem is that the manager is not engaged and is barely supporting the employee. Perhaps this tactic can work if the manager follows up and ends up giving advice later, or helps the employee process it afterwards. However, someone that persistently uses the Mog Defense is probably not this kind of manager and is just trying to avoid getting lasers in the gut.
 
 Eventually, Phil will learn how to handle this relationship. Here is how it works, week 7 and onward:
 
