@@ -25,7 +25,7 @@ He points out though, how much value is obtained from the intangibles:
 
 In other words, the true power of hackathons is in the intangibles. The greatest intangible, to me, is The Truth. That truth will be different depending on who is looking in the mirror.
 
-###The Truth###
+### The Truth
 
 Let me put it to you this way. In the past several years, I've participated in many hackathons, and have seen patterns that point to the inner-most desires in the given organization.
 
