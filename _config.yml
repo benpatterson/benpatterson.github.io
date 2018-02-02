@@ -30,7 +30,7 @@ redcarpet:
 exclude:        ["arch"]
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 github:
   repo:           https://github.com/benpatterson/benpatterson.github.io
