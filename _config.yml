@@ -3,6 +3,7 @@ plugins:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
+  - jekyll-sitemap
 markdown:         kramdown
 highlighter:      rouge
 
