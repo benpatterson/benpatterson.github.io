@@ -7,7 +7,7 @@ Would you board a plane in order to travel 10 miles?
 
 What if traveling those ten miles looked like this? [^1]
 
-![grand canyon]({{site.github.url}}/assets/images/grand_canyon.jpg)
+![grand canyon]({{site.github.url}}/assets/images/grand_canyon.jpg){: .center-image }
 
 Sometimes it takes a magnitude more energy to cross what is otherwise an easy stretch. This could be finding out why the engine light is on; it could be mopping the floor; it could be running tests.
 
