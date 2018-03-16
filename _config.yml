@@ -4,6 +4,7 @@ plugins:
   - redcarpet
   - jekyll-gist
   - jekyll-sitemap
+
 markdown:         kramdown
 highlighter:      rouge
 
@@ -28,7 +29,7 @@ paginate:         5
 redcarpet:
   extensions: ["footnotes"]
 
-exclude:        ["arch"]
+exclude:        ["_draft"]
 
 # Custom vars
 version:          0.0.2
