@@ -39,27 +39,5 @@ The only concrete update I saw mentioned was: "let's create a form for people to
 
 Like any developer that wants to touch it once, I find that I am most engaged when I'm deep in a problem. It's at that moment where I'd love to participate, whether that's clarifying information I see posted, actually asking a good question, etc. However, I am an unprivileged user. As an attentive lurker, I can see there are clear social norms for asking and answering questions, commenting on things, etc. But I simply don't have access to follow those norms, and my only choice is considered either boorish or stupid (re-answering a question or re-asking with a new question). So: it's better for me to continue lurking and focus on my job. I have little doubt that I am but one of thousands of users sitting on the outside unable to fully participate because the barrier to entry is too high. Hopefully SO can take a look at their incentive structure and realize that while the attitudes on the site are oftentimes unhelpful and unwelcoming, that behavior has been encouraged. It has been encouraged not just by the people, but by the very structure itself.
 
-
-Below is an e-mail I wrote a few years ago and never sent. Thought I'd share that now.
-
-
-
->Dearest StackOverflow
->
->I use you nearly every day. Certainly every week. I've solved many problems based on hints I see in your knowledge store.
->
->Sometimes I have a clarifying comment on an already-accepted answer. My clarifying comment does not warrant a new answer, really. It is often a corollary, or perhaps a hanging-chad kind of extra wrinkle that would affect a small but important percentage of people in the same situation. But I am willing to bet there's 1 other person that will appreciate the clarification I might have to offer.
->
->Unfortunately I do not have enough StackOverflow Duckets to make such comments. My only options at this point are [1] Create a new answer which is a copy/paste plus my little comment. Whenever I've attempted that I've had no less than 2 people chastise me for not-commenting. (Even though I can't.) [2] Make-up questions and answer them so I get Duckets. (I avoid this because it feels like cheating, to be honest. Plus I fear I will be chastised.) [3] Spend time I do not have trolling so I can answer questions on things that I know about. (I don't do this because I am not a deep expert in very many areas. Things I know very well, I am not the best in the industry. Thus, the less-difficult questions are a race against other Average Guys that I know I will not have the bandwidth to win.)
->
->So I am asking: is there another way for me to get Duckets? Some way to prove to you I am not a troll, that I am a legitimate, average, but helpful coder?
->
->Not intended as a complaint, but this morning I encountered another issue and found a solution. In this case, it only had 2 upvotes, and I wanted to give it a 3rd because it solved my problem. Plus I wanted to celebrate the solution because I'd been working on it for a couple of days, really. Sadly, I am still out of the Inner Circle and must cheer from the nether.
->
->Perhaps this is a feature request. Perhaps it's a favor. I dunno. I thought at least, it would be good to hear your perspective.
->
->With respect,
->
->Ben Patterson
->some python, some cucumber, some jenkins, some wonder at awesome coders
+On top of all the positive messaging, in order to foster the kind of community that everyone wants, the awards system needs to change.
 
