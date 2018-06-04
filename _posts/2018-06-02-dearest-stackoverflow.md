@@ -17,6 +17,7 @@ Other kinds of basic transactions require points, like adding comments (50), vot
 * cannot ask a clarifying question on someone's SO post (for example, to better understand)
 * cannot make a clarifying comment on someone's answer (for example, to help other users better understand)
 * cannot ask questions on the meta site (for example, to say, "gosh this points system is tough!") 
+
 Basically, new users are cut off from the usual, collaborative activities that power a site like StackOverflow. Indeed, some of the incentive structure seems driven by the need to repel trolls, but the barrier to entry for an engaged, new user, remains high.
 
 Similar to the wiki, if you see an answer that is perhaps 98% correct, but that last 2% is important to you, your only option is to create a new, competing answer. If you do this, you'll get slapped with an "already answered" or "duplicate answer" from a privileged user very quickly. Nevermind the fact that this is your only option as a new user.
