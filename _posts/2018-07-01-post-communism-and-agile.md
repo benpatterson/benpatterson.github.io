@@ -32,17 +32,5 @@ In a study of this approach in transition economies, it was found that wages wer
 
 ### My Experience
 
-I've experienced each of these approaches both as a leader, and as an employee. The tipping point for me between these two approaches has more to do with the employees involved, and their appetite for change. Working in Engineering, you see a broad spectrum of folks that are open to change and innovation, and others that fight against it. I've seen behaviors along these lines up and down the development chain, whether it is writing unit tests, or building a different feature, or adopting a new deployment model. So indeed for me, the soil I'm working with has a lot to do with my own strategy. It might be obvious, but I side more with the gradual approach; however, I've implemented shock changes that have been effective as well.
-
-
-
-----
-
-As an organization, we implemented SOC2 in between these two extremes. Before we made workflow changes, we discussed why we wanted to adopt SOC2, and we laid out our suggested approach for day-to-day code and infrastructure changes. The high-level concepts were just as important as the workflow states, because we need to fully embrace the concepts and apply them to new situations on a regular basis. During this period, we had meetings, 1-on-1 feedback, and built out documentation. That feedback was taken and adjustments were made before we actually rolled out changes. Then we pushed the button. We had workflows in place on a trial period for a month as folks adjusted and new circumstances arose where answers and tweaks were needed. During that month, we made a few changes that made sense for us to successfully implement SOC2, and keep engineering productive. After that one month period, we locked the workflow. (We'll likely make more changes over time, but that itself will have a proper change process in place.)
-
-I like to think of our adjustment like a typical heartbeat graph. We kept workflow fairly steady as we determined the best way for us, then we had a surge of changes in a high blip, there was perhaps a follow-up, smaller blip, and then back to a steady-state. I'm not intending to say it was easy or took little work. It was a significant change in not only the mechanics of doing work, but also in how we think about the work we do and the choices we make when implementing changes. While I might think of transition economies as our org changes, that is only as a reference point. With those perspectives, we completed the journey taking the path we felt was best. 
-
-
-
-
+Using transition economies as a reference point for making these kinds of decisions as an organization is helpful for me, when weighing the pros and cons, and coming up with an action plan. I've experienced each of these approaches both as a leader in organizations, and as an employee. When choosing between the two approaches, the tipping point for me has more to do with the appetite for change among the employees. Working in Engineering, you see a broad spectrum of folks that are open to change and innovation, and others that fight against it. I've seen behaviors along these lines up and down the development chain, whether it is writing unit tests, or building a different feature, or adopting a new deployment model. So indeed for me, the soil I'm working with has a lot to do with my own strategy. It might be obvious, but I side more with the gradual approach; however, I've implemented shock changes that have been effective as well.
 
