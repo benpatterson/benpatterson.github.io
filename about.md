@@ -10,4 +10,4 @@ title: About
 * Site: [Hyde](https://hyde.getpoole.com), which is Jekyll under the covers.
 * Mailing list: This is just `mailto` for now. Sorry to make you email me.
 
-[contact](mailto:ben@fifteenlinesoffame.com)
+[ben@fifteenlinesoffame.com](mailto:ben@fifteenlinesoffame.com)
