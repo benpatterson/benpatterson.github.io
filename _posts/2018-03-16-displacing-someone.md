@@ -3,9 +3,9 @@ layout: post
 title: Firing someone
 ---
 
-It's not exactly a joyride, but if you want to manage, you have to get comfortable firing. This post isn't about [the mechanics](https://hbr.org/2016/02/a-step-by-step-guide-to-firing-someone); it's about the mentality. I will do my best to illustrate with two anonymized examples. Let's call them Bip and Bop.
+It's not exactly a joyride, but if you want to manage, you have to get comfortable firing. This post isn't about [the mechanics](https://hbr.org/2016/02/a-step-by-step-guide-to-firing-someone); it's about the mentality. How you handle it mentally can be the difference between a straightforward, successful firing, and a long, painful, and highly disruptive firing.
 
-(First, a disclaimer. I'm not writing this because I'm currently in this situation. But: I have little doubt I will be in this situation again one day.)
+I'd like to illustrate with two anonymized examples: Bip and Bop. [^1]
 
 Bip was the one of the first people I had to manage out. When he arrived at my company, he'd had high marks, almost as if he was going to slot in as our best engineer. He came into the company and he was...ok. And really, depending on your standards, maybe that is fine. Didn't meet the high expectations, but he was contributing and helping the train move. Over time though, that worn gloss began to tarnish. Feedback from his teammates began telling a different story, of a person who often undercommitted, who frequently put in poor quality work. 
 
@@ -17,7 +17,7 @@ Now let's take Bop. Bop had been at the company for awhile, and I'd seen him pre
 
 But I'll be honest: at first I did not do a great job. I lagged on my timing, I took it slow on gathering paperwork and getting help from HR. Correcting any personnel issue should be the first item on a manager's list, but mentally this was the third or fourth one. 
 
-When I first started managing Bop, I didn't believe this was the best move. However, as I started paying more attention to him, my faith began to crack. I'd come by and find him snoozing at his desk. I'd ask for things because I needed them for reporting or planning, and they would arrive late or not at all. Over time I could see: Bop was streaky. He'd pull an all-nighter and spin up something that was fascinating but it was thin, and when looking at the problems the group was trying to solve, it was tangential. He was not advancing the cause. When I gave him feedback, he promised improvement, but let me down after a few days. I also noticed his coworkers were staying later to pick up the slack, and one of them was starting to get frustrated. 
+When I first started managing Bop, I didn't believe this was the best move. However, as I started paying more attention to him, my faith began to crack. I'd come by and find him snoozing at his desk. I'd ask for things because I needed them for reporting or planning, and they would arrive late or not at all. Over time I could see: Bop was streaky. He'd pull an all-nighter and spin up something that was fascinating but it was thin, and when looking at the problems the group was trying to solve, it was tangential. He was not advancing the cause. When I gave him feedback, he promised improvement, but let me down after a few days. I also noticed his coworkers were staying later to pick up the slack, and one of them was starting to get frustrated. Morale was now starting to sag because of this employee. 
 
 It was around this time that I began to believe. Once I'd turned that corner, I put more of my heart into managing him out. It became not only easy, but it started getting done. As we communicated over the next week or two, Bop seemed to understand it, too. At least, he was in the same universe of thought: this situation was not the best thing for anyone, including him.
 
@@ -25,3 +25,4 @@ I've had to let people go, let them move on, fire them. I'm not an axe guy, but 
 
 Any firings or layoffs that you have to execute, you've got to take time for yourself to fully understand it, and buy into it, yourself. I realize not everyone will have the luxury to go through that exercise, but when you invest the time into really thinking it through, then getting it done becomes easier. You have to believe. 
 
+[^1]: Due to gender imbalance in my side of the industry, I'm purposely listing these as both male to make them feel even more anonymous. :\
