@@ -3,7 +3,7 @@ layout: post
 title: Mog-Style Management
 ---
 
-Ever heard of a mog? I'm talking about John Candy playing Barf, the half-man, half-dog. He had an effective approache towards laser-slinging bad guys. To wit, this pic [^1]:
+Ever heard of a mog? I'm talking about John Candy playing Barf, the half-man, half-dog. He had an effective approach towards laser-slinging bad guys. To wit, this pic [^1]:
 
 ![Barf re-routing lasers back to bad-guys with pipes]({{site.github.url}}/assets/images/spaceballs-04.jpg){: .center-image }
 
