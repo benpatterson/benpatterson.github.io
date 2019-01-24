@@ -8,6 +8,3 @@ title: About
 **How's the site built?**
 
 * Site: [Hyde](https://hyde.getpoole.com), which is Jekyll under the covers.
-* Mailing list: This is just `mailto` for now. Sorry to make you email me.
-
-[ben@fifteenlinesoffame.com](mailto:ben@fifteenlinesoffame.com)

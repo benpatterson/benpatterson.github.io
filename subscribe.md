@@ -3,5 +3,4 @@ layout: page
 title: Subscribe
 ---
 
-To subscribe, please send me an e-mail! You can just say "subscribe". I'll take care of it.
-[ben@fifteenlinesoffame.com](mailto:ben@fifteenlinesoffame.com)
+To subscribe, follow me on twitter at [@benmadrone](https://twitter.com/benmadrone). Feel free to DM me, too, if you'd rather not follow.
