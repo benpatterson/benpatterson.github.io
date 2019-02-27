@@ -13,6 +13,8 @@ In my experience, I've seen this occur in a few different ways:
 1. Feature bloat
 1. Code complexity or configuration sprawl
 
+![stack of napkins]({{site.github.url}}/assets/images/orange-napkins.jpg){: .center-image }
+
 ### Noise
 The classic example of noise is too many pop-ups. Most of what we see today are the different ways a website can claim to help you. There are interruptions to introduce you to chatbots, there are help pointers and there are intro modals. In isolation, each of those can be useful and helpful, but adding them all together is turns into a wall of noise. The website becomes unusable. From the perspective of accessibility, it truly can become unusable, if keyboard interaction does not allow a user to close a modal, toast, etc. This might sound like an exaggeration, but I've seen it without even trying. Noise like this rarely starts as a sudden blast of sound; it can slowly rise from a murmur, and this is where there is risk.
 
