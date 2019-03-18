@@ -5,7 +5,7 @@ title: Death by 1,000 Paper Napkins
 
 The popular phrase "Death by 1,000 Paper Cuts" usually refers to a problem that kills a company, team, or product because there are just too many little problems adding up. Today, I reflect on the opposite problem: too many nice things. Let's call it Death by 1,000 Paper Napkins.
 
-On the most exaggerated scale, it's a Malthusian nightmare of features or functionality. The mere volume of features and functionality pulls on the resources for nutrition, that famine becomes rampant. The app, the users, or the products die.
+On the most exaggerated scale, it's a Malthusian nightmare of features or functionality. The mere volume of them pulls on the resources for nutrition to the point that famine becomes rampant. The app, the users, or the products die.
 
 In my experience, I've seen this occur in a few different ways:
 
