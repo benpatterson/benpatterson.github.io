@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Death by 1,000 Paper Napkins
+description: Today I reflect on the problem where we put too many nice things into a product and it kills the product.
+image: "{{site.github.url}}/assets/images/orange-napkins.jpg"
 ---
 
 The popular phrase "Death by 1,000 Paper Cuts" usually refers to a problem that kills a company, team, or product because there are too many little problems adding up. Today, I reflect on the opposite problem: too many nice things. Let's call it Death by 1,000 Paper Napkins.
