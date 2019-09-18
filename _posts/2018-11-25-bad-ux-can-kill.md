@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bad UX can kill
+description: Users are smart people, and they all operate in a place where they don't need to use their smarts to navigate a website.
 ---
 Users are smart people, and they all operate in a place where they don't need to use their smarts to navigate a website. They are focused on a task and don't even think about the way they do it causing a catastrophic event. When discussing user-experience, I've been in scenarios where I've heard folks say "a user can figure it out", but that's the sound of an echo-chamber. 
 

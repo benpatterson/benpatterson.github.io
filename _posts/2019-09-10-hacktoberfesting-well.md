@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hacktoberfesting well
+description: One of my favorite times of year is October. There are almost too many reasons to count...
 ---
 One of my favorite times of year is October. There are almost too many reasons to count (my birthday, my twin brother's birthday, autumn, black heritage month, and on). [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is without a doubt an annual highlight for me. To make it successful year-to-year, I've had to adapt.
 

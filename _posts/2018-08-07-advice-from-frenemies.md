@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advice from People That Aren't My Friends
+description: I believe complete strangers have more power over us than we realize.
 ---
 
 I believe complete strangers have more power over us than we realize. My wife is a teacher, and years later I still get irritated thinking about what an anonymous user said in an online newspaper commentary about teachers. Strangers can also sum up others in a frank and direct way. They have less time than an elevator pitch, and they react to a situation, even if it's as simple as seeing your face for only a few seconds.

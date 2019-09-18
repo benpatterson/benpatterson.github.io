@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Firing someone
+description: It's not exactly a joyride, but if you want to manage, you have to get comfortable firing.
 ---
 
 It's not exactly a joyride, but if you want to manage, you have to get comfortable firing. This post isn't about [the mechanics](https://hbr.org/2016/02/a-step-by-step-guide-to-firing-someone); it's about the mentality. How you handle it mentally can be the difference between a straightforward, successful firing, and a long, painful, and highly disruptive firing.

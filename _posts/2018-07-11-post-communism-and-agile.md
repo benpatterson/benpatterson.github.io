@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Post-Communism and Organizational Change
+description: When thinking about adopting a large change such as adopting Agile for an organization, I think of it from the perspective of organizational behavior.
 ---
 
 The class I took in college on Transition Economies was one of my favorites. My professor was a brilliant man with a soporific voice, and I'd scan the room to see heads nodding off, but I found it fascinating. At the turn of the 21st century, "transition economy" generally referred to countries that were adjusting to post-communist life. In those sectors of Europe, things as fundamental as buying a carton of milk or even how to do your job were significantly changing. Entire countries were altering how they did commerce. It was the whole system, too, all the way from how to pay people based on their job or skills, up to creating industries that had previously been government-controlled or simply did not exist. It wasn't only changing a system, it was shifting a culture, too.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Heart of Stack Overflow's Bad Vibes
+description: A response to recent Stack Overflow announcements.
 ---
 
 Stack Overflow recently made a series of [announcements](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/) that focus on fostering a positive community, making it a safer forum for new and underrepresented developers. While I certainly support this newfound focus, I think its success will be muted unless they revisit their achievements program. They're changing a few rules, which is great, and they are kindly suggesting that privileged users stop their bad habits. But a fundamental part of the issue is the incentive structure, which doesn't appear to be in their plans for change. I'm not saying it's the only thing to worry about, but I'm saying it's a foundational detail.
