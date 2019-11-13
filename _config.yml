@@ -32,7 +32,7 @@ redcarpet:
 exclude:        ["_draft"]
 
 # Custom vars
-version:          0.0.2
+version:          0.0.3
 
 github:
   repo:           https://github.com/benpatterson/benpatterson.github.io
