@@ -1,0 +1,15 @@
+baseURL: https://www.fifteenlinesoffame.com
+disablePathToLower: true
+languageCode: en-us
+title: Fifteen Lines of Fame
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    title: About
+    url: /about/
+  - identifier: subscribe
+    name: Subscribe
+    title: Subscribe
+    url: /subscribe/
