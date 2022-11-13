@@ -2,6 +2,7 @@ baseURL: https://www.fifteenlinesoffame.com
 disablePathToLower: true
 languageCode: en-us
 title: Fifteen Lines of Fame
+theme: Hyde
 
 menu:
   main:
