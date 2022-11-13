@@ -1,5 +1,5 @@
 ---
-date: "2019-04-15T00:00:00Z"
+date: "2022-11-12T00:00:00Z"
 draft: true
 title: How Pain Defines You
 ---
@@ -24,9 +24,10 @@ When I took my wife on the tour, the Ysleta Mission had a sign-in book at the fr
 
 It was important to me to show my children where I went to school. It was classic old-man: "See, you kids got it easy. You need to understand that. No gym or field. Old textbooks. This parking lot is where we played soccer."
 
-The boys were curious about it, and mainly quiet. I think they understood there was extra meaning loaded here. So, before we got back into the car, I knelt down and explained to them that aside from my brother I never had any friends, was spit on, sworn at, pantsed, had rocks thrown at me, and so on. I was always the last pick on the basketball court and they never threw me the ball in football where I was nicknamed "sunshine" because I was a güedo. But that you take those experiences and draw the value out of them, and try to learn from them and become a better person. I told them that racism is bad, and I know firsthand some of the ways it's bad and I probably still had it easy. We should strive to be better.
+The boys were curious about it, and mainly quiet. I think they understood there was extra meaning loaded here. So, before we got back into the car, I knelt down and explained to them that aside from my brother I never had any friends, was spit on, sworn at, pantsed, had rocks thrown at me, and so on. I was always the last pick on the basketball court and they never threw me the ball in football where I was nicknamed "sunshine" because I was a güero. But that you take those experiences and draw the value out of them, and try to learn from them and become a better person. I told them that racism is bad, and I know firsthand some of the ways it can be bad. But I also know: I had the easy version.
 
-We got back into the car, and pulled out of the lot, turning back towards the East Side. This is where I started crying and there was an awkward hush in the car until my father put a hand on my shoulder while his other hand was on the wheel. Channeling my geekdom, I said, "This is totally like Star Trek V where Kirk says, 'I need my pain. It defines who I am.'" Respectfully, my father said, "I think it's not so much the pain, but how you respond to it."
+We got back into the car, and pulled out of the lot, turning back towards the East Side. This is where I started crying and there was an awkward hush in the car until my father put a hand on my shoulder while his other hand was on the wheel. Channeling my geekdom, I said, "This is totally like Star Trek V where Kirk says, 'I need my pain. It defines who I am.'" 
 
-I think of that every day. Thanks for listening.
+Gently, my father said, "I think it's not so much the pain, but how you respond to it."
 
+I think of that every day.
